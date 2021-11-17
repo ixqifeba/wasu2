@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ixqifeba.github.io/wasu2/sitemap.xml
